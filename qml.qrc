@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Galley.qml</file>
+        <file>VideoPlayback.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>player-pause.png</file>
+        <file>player-play.png</file>
+        <file>player-track-next.png</file>
+        <file>player-track-prev.png</file>
+    </qresource>
+</RCC>
